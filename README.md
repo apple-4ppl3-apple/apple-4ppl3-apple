@@ -1,8 +1,8 @@
 https://devpost.com/software/anonity
 
-youtube.com/c/FirstLast01
+https://youtube.com/c/FirstLast01
 
-telecom_06_catnap@icloud.com
+mailto:telecom_06_catnap@icloud.com
 
 - 👋 Hi, I’m @apple-4ppl3-apple
 - 👀 I’m interested in ...
